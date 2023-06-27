@@ -1,0 +1,60 @@
+[
+    {
+      "name": "California sushi roll",
+      "menu": "Japanese main course"
+    },
+    {
+      "name": "Miso soup",
+      "menu": "Japanese starters"
+    },
+    {
+        "name": "Chicken Alfredo",
+        "menu": "Italian main course"
+        },
+        
+        {
+        "name": "Caprese salad",
+        "menu": "Italian starters"
+        },
+        
+        {
+        "name": "Taco",
+        "menu": "Mexican main course"
+        },
+        
+        {
+        "name": "Guacamole",
+        "menu": "Mexican starters"
+        },
+        
+        {
+        "name": "Cheeseburger",
+        "menu": "American main course"
+        },
+        
+        {
+        "name": "Caesar salad",
+        "menu": "American starters"
+        },
+        
+        {
+        "name": "Pad Thai",
+        "menu": "Thai main course"
+        },
+        
+        {
+        "name": "Tom Yum soup",
+        "menu": "Thai starters"
+        }
+        ,
+        {
+        "name": "Fish and chips",
+        "menu": "British main course"
+        },
+        
+        {
+        "name": "Bangers and mash",
+        "menu": "British starters"
+        }
+  ]
+  
