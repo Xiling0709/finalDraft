@@ -23,7 +23,9 @@ const Filter: React.FC = () => {
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(e.target.value);
-  };//yes
+  };
+
+  // try if github works
   const highlightSearchTerm = (item: string, term: string) => {
     const splitItem = item.split(new RegExp(`(${term})`, 'gi'));
     return (
