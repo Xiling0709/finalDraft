@@ -25,7 +25,7 @@ const Filter: React.FC = () => {
     setSearchTerm(e.target.value);
   };
 
-  // try if github works
+  // try if commit works
   const highlightSearchTerm = (item: string, term: string) => {
     const splitItem = item.split(new RegExp(`(${term})`, 'gi'));
     return (
